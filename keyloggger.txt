@@ -1,0 +1,1 @@
+'a' 'b' 'c' 't' 'h' space '4' '5' '6' space ctrl_enter ctrl_l
